@@ -1,0 +1,40 @@
+.container-fluid {
+  .row {
+    height: 100vh;
+    .image {
+      background: #eb5757;
+      background: #eb5757;
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      img {
+        width: 400px;
+        height: 400px;
+      }
+    }
+    .hello {
+      height: 100vh;
+      padding: 148px 52px;
+    
+      h1 {
+        color: green;
+        font-size: 24px;
+        height: 45px;
+      }
+      button {
+        height: 18px;
+        width: 172px;
+        padding: 3px;
+        font-size: 8px;
+        background: #2D81F7;
+        border: none;
+      border-radius: 2px;
+      color: white;
+      margin-top: 8px
+        }
+}
+      }
+      
+    }
+  
+

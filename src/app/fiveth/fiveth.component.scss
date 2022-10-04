@@ -1,0 +1,34 @@
+.container-fluid {
+  .row {
+    .image {
+      // background-color: #EB5757;
+      height: 100vh;
+      background: #eb5757;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      img {
+        width: 280.68px;
+        height: 411.42px;
+      }
+
+    }
+    .hello{
+        margin-top: 100px;
+        h1{
+            font-size: 15px;
+        }
+        p{
+            font-size: 12px;
+        }
+        label{
+            font-size: 10px;
+        }
+        input{
+            height: 10px;
+            width:185px;
+        }
+
+    }   
+  }
+}

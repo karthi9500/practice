@@ -1,0 +1,85 @@
+.container-fluid{
+.header {
+  display: flex;
+  margin: 0px 10px;
+
+  .image {
+    height: 100vh;
+    background: #eb5757;
+    width: 453px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    img {
+      width: 280.68px;
+      height: 411.42px;
+    }
+  }
+
+  .sign {
+    height: 100vh;
+    width: 50%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    line-height: 10px;
+    align-items: center;
+    justify-content: center;
+
+    .headers {
+      display: flex;
+      flex-flow: column;
+      justify-content: center;
+      width: 100%;
+      margin-left: 202px;
+      h1 {
+        font-size: 16px;
+      }
+      p {
+        font-size: 6px;
+      }
+    }
+
+    label {
+      height: 14px;
+      width: 159px;
+      font-size: 9px;
+    }
+  }
+
+  input {
+    font-family: "Montserrat";
+    width: 172px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.65);
+    height: 20px;
+    font-size: 9px;
+    border-radius: 3px;
+    padding: 7px;
+  }
+  button {
+    height: 18px;
+    width: 172px;
+    padding: 3px;
+    font-size: 8px;
+    background: #2d81f7;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    margin-top: 20px;
+  }
+  a{
+    // margin-left: 10px;
+    margin-left: -120px;
+    margin-top: 10px;
+    font-size: 7px;
+}
+.link{
+    margin-right: 10px;
+    margin-right: -213px;
+    font-size: 8px;
+}
+}
+  }
+

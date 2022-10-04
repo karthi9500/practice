@@ -1,0 +1,29 @@
+
+.container-fluid{
+
+    .row{
+        height: 100vh;
+        .image{
+            background: #eb5757;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            img{
+                width: 400px;
+                height: 400px;
+            }
+            
+        }
+        .right{
+            .details{
+                position: absolute;
+                left: 490px;
+                 top: 85px;
+                 font-size: 19px;
+
+                }
+                 
+        }
+
+    }
+}
